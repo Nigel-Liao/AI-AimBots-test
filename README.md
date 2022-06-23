@@ -18,6 +18,6 @@ git clone git@github.com:RinNoOtto/AI-AimBots-test.git
 ```
 或是沒綁github ssh 可以
 ```
-https://github.com/RinNoOtto/AI-AimBots-test.git
+git clone https://github.com/RinNoOtto/AI-AimBots-test.git
 ```
 我乳果詪新則在同資料夾打git pull，雖然應該不會ㄏㄏ
