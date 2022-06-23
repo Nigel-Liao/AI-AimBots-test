@@ -10,7 +10,7 @@ Because I am not an expert in AI design, and the environment is not well set up,
 
 The scripts are all based on autohotkey. The pressure gun script I found on the Internet and slightly modified, the array is really cool. The burst is researched by myself, it is useless, at most let your 30-30 upgrade from M1 Garand to M14, ㄏ ㄏ.
 
-The above are all translated with google translate, why? Because my English is as bad as shit and I'm almost failing QAQ.
+The above are all translated with google translate, why? Because my English suck and I'm almost failing QAQ.
 
 找ㄍ喜翻ㄉ資料夾 
 ```
