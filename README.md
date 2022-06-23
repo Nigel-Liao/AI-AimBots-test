@@ -12,6 +12,8 @@ The scripts are all based on autohotkey. The pressure gun script I found on the 
 
 The above are all translated with google translate, why? Because my English suck and I'm almost failing QAQ.
 
+ㄜㄜ ㄜ 翻譯有誤怪谷歌，別在那邊靠杯
+
 找ㄍ喜翻ㄉ資料夾 
 ```
 git clone git@github.com:RinNoOtto/AI-AimBots-test.git
