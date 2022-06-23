@@ -2,7 +2,7 @@
 Two python-based low-performance AI auto-targeting robots, with two apex game scripts.
 
 <video controls="true">
-        <source src="https://youtu.be/ZFnbLfQuMcE" type="video/mp4" />
+        <source src="www.youtube.com/watch?v=ZFnbLfQuMcE" type="video/mp4" />
     </video>
 
 The first AI automatic aiming robot uses the yolov5 api, which is the fastest in the open source game AI automatic robot I know so far. The other is to use the mediapipe api, which is efficient and has a skeleton effect, making it easier to identify the head, but less efficient when there are multiple people.
